@@ -2,11 +2,12 @@
 {
   "compilerOptions": {
     /* Language and Environment */
-    "target": "es2016",
-    "lib": ["es6"],
+    "target": "ESNext",
+    "lib": ["ESNext"],
 
     /* Modules */
     "module": "commonjs",
+    "moduleResolution": "NodeNext",
     "rootDir": "src",
     "resolveJsonModule": true,
 
