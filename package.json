@@ -1,0 +1,15 @@
+{
+  "name": "basic-crud",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc",
+    "postdev": "node release/index.js"
+  },
+  "dependencies": {
+    "node": "^16.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.15",
+    "typescript": "^4.8.2"
+  }
+}
