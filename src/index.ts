@@ -1,8 +1,8 @@
 // Node modules
-import fs = require("fs");
-import path = require("path");
+import fs from "fs";
+import path from "path";
 
-
+fs
 // Paths
 const PATH_DATA = "./data/";
 
